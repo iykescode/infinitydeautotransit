@@ -30,7 +30,7 @@ export default function Header() {
                         <div className="bottom-bar">
                             <div className="logo">
                                 <a href="#">
-                                    <span style={{ color: "white", fontFamily: "monospace", fontSize: "x-large" }}>Premiumtransitz</span>
+                                    <span style={{ color: "white", fontFamily: "monospace", fontSize: "x-large" }}>Infinity De Auto Transit</span>
                                 </a>
                             </div>
                             <nav>

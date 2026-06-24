@@ -4,7 +4,7 @@ export default function Footer() {
             <footer>
                 <div className="container">
                     <div className="footer-top">
-                        <a href="mailto:hello@premiumtransitz.com">hello@premiumtransitz.com</a>
+                        <a href="mailto:hello@infinitydeautotransit.com">hello@infinitydeautotransit.com</a>
                         <ul>
                             <li><a href="#">Facebook</a></li>
                             <li><a href="#">X (Twitter)</a></li>
@@ -49,9 +49,9 @@ export default function Footer() {
                     </div>
                     <div className="footer-bottom">
                         <a href="#home">
-                            <span style={{ color: "white", fontFamily: "monospace", fontSize: "x-large" }}>Premiumtransitz</span>
+                            <span style={{ color: "white", fontFamily: "monospace", fontSize: "x-large" }}>Infinity De Auto Transit</span>
                         </a>
-                        <p>© 2026 Premiumtransitz by <a target="_blank" href="https://www.iykescode.com" style={{ color: "white" }}>Iykescode <i className="fa-solid fa-external-link"></i> </a>. All Rights Reserved.</p>
+                        <p>© 2026 Infinitydeautotransit by <a target="_blank" href="https://www.iykescode.com" style={{ color: "white" }}>Iykescode <i className="fa-solid fa-external-link"></i> </a>. All Rights Reserved.</p>
                     </div>
                 </div>
             </footer>

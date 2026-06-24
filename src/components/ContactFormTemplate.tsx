@@ -27,7 +27,7 @@ export default function ContactFormTemplate({ start, destination, dateFrom, date
             <p><strong>Vehicle:</strong> ${vehicle}</p>
             <p><strong>Trip:</strong> ${trip}</p>
             <hr style="border: none; border-top: 1px solid #eee; margin: 20px 0;" />
-            <p style="font-size: 12px; color: #999;">This message was sent from your website contact form. (Premiumtransitz)</p>
+            <p style="font-size: 12px; color: #999;">This message was sent from your website contact form. (Infinity De Auto Transit)</p>
           </div>
         </body>
       </html>

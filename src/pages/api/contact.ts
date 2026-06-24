@@ -11,7 +11,7 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
         const body = req.body;
 
         const result = await SendEmail({
-            from: "noreply@premiumtransitz.com",
+            from: "noreply@infinitydeautotransit.com",
             to: "oluwoleayoola02@gmail.com",
             subject: "New Ride Alert!",
             html: ContactFormTemplate({
