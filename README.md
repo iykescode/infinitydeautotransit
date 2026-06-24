@@ -1,5 +1,5 @@
-## 🚗 PremiumTransitz
-PremiumTransitz is a modern private car hire web application inspired by services like Uber and Lyft, with a focus on luxury, client-tailored transportation experiences.
+## 🚗 Infinity De Auto Transit
+infinitydeautotransit is a modern private car hire web application inspired by services like Uber and Lyft, with a focus on luxury, client-tailored transportation experiences.
 
 Built with a performance-first mindset using Next.js, the platform provides a seamless booking interface, real-time location input, and automated communication via email.
 
@@ -50,8 +50,8 @@ Create a .env.local file in the root directory:
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/premiumtransitz.git
-cd premiumtransitz
+git clone https://github.com/your-username/infinitydeautotransit.git
+cd infinitydeautotransit
 ```
 2. Install dependencies
 ```bash
