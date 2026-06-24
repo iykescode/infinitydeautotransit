@@ -27,7 +27,7 @@ export default function App({ Component, pageProps }: AppProps) {
           <Head>
               <meta charSet="utf-8"/>
               <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-              <title>Infinity De Auto Transit - Index</title>
+              <title>Infinity De Auto Transit - Luxury Transit Service</title>
               <link rel="icon" href="/assets/img/favicon.png"/>
           </Head>
           <Header />
